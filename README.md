@@ -1,4 +1,4 @@
-# 🌐 3D Awwwards-Level Developer Portfolio
+# 🌐 3D Animated Portfolio
 
 ### Built with React, GSAP, Three.js, TailwindCSS
 
